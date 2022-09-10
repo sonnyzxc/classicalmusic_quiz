@@ -1,11 +1,6 @@
 # classical music quiz discord bot
 ![pic](https://static01.nyt.com/images/2011/01/05/arts/Composer-cover/Composer-cover-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
-Setup Virtual Environment
-```
-python3 -m venv venv
-```
-
 Install Packages
 ```
 pip install discord.py
@@ -19,3 +14,8 @@ Run Server (cd to main folder)
 ```
 python3 manage.py runserver
 ```
+--- 
+<h2>To do</2>
+1. Make the questions more pretty using discord syntax! 
+2. Populate database with more questions
+3. Share to the world
