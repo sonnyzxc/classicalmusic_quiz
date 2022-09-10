@@ -1,5 +1,5 @@
 # classicalstream
-branch into classical music!
+test your knowledge on classical music through the bot :D
 
 Installation
 ```
