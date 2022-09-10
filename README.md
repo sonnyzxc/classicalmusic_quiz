@@ -6,7 +6,7 @@ Setup Virtual Environment
 python3 -m venv venv
 ```
 
-Install Packages (optional: in your venv)
+Install Packages
 ```
 pip install discord.py
 pip install django
