@@ -3,6 +3,5 @@ branch into classical music!
 
 Installation
 ```
-pip install hikari
-pip install hikari-lightbulb
+python3 -m venv virtual1
 ```
