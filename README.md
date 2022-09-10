@@ -1,5 +1,7 @@
 # classicalstream
-test your knowledge on classical music through the bot :D
+>test your knowledge on classical music through the bot :D
+
+token has been hidden for security reasons!
 
 Setup Virtual Environment
 ```
