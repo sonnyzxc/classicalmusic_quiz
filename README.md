@@ -13,7 +13,7 @@ pip install django
 pip install djangorestframework
 ```
 
-Add 'rest_framework' to INSTALLED_APPS setting
+Add <mark>'rest_framework'</mark> to INSTALLED_APPS setting
 ```
 INSTALLED_APPS = [
    ...
