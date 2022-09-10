@@ -15,6 +15,7 @@ pip install discord.py
 pip install django
 pip install djangorestframework
 pip install requests
+pip install asyncio
 ```
 
 Run Server (cd to main folder)
