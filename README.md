@@ -15,7 +15,7 @@ Run Server (cd to main folder)
 python3 manage.py runserver
 ```
 --- 
-<h2>To do</2>
+<h2>To do</h2>
 1. Make the questions more pretty using discord syntax! 
 2. Populate database with more questions
 3. Share to the world
