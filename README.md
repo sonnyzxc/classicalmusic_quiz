@@ -14,6 +14,7 @@ Install Packages
 pip install discord.py
 pip install django
 pip install djangorestframework
+pip install requests
 ```
 
 Run Server (cd to main folder)
