@@ -12,3 +12,7 @@ pip install discord.py
 pip install django
 ```
 
+Run Server
+```
+python3 manage.py runserver
+```
