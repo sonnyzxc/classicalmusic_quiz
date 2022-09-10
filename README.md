@@ -16,6 +16,6 @@ python3 manage.py runserver
 ```
 --- 
 <h2>To do</h2>
-1. Make the questions more pretty using discord syntax! 
-2. Populate database with more questions
-3. Share to the world
+- Make the questions more pretty using discord syntax! 
+- Populate database with more questions
+- Share to the world
