@@ -10,7 +10,15 @@ Install Packages
 ```
 pip install discord.py
 pip install django
+pip install djangorestframework
 ```
+
+Add 'rest_framework' to INSTALLED_APPS setting
+```
+INSTALLED_APPS = [
+   ...
+   'rest_framework',
+]
 
 Run Server (cd to main folder)
 ```
