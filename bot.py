@@ -2,7 +2,7 @@ from urllib import request
 import discord, requests, json, asyncio
 
 client = discord.Client() #build connection to discord
-token = 'MTAwNTU2MDQwMDY1OTYxMTczMA.GrECXi.K6bOxk-CApx-AtAARwA5pI_31gtWa6HyaqF57c'
+token = #
 
 def get_question():
     q = ''
