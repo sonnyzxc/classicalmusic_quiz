@@ -12,7 +12,7 @@ pip install discord.py
 pip install django
 ```
 
-Run Server
+Run Server (cd to main folder)
 ```
 python3 manage.py runserver
 ```
