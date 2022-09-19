@@ -3,7 +3,7 @@
 
 <p>A discord bot made to quiz you on classical music facts</p>
 
-Install Packages
+<b>1. Install Packages</b>
 ```
 pip install discord.py
 pip install django
@@ -12,10 +12,11 @@ pip install requests
 pip install asyncio
 ```
 
-Run Server (cd to main folder)
+<b>2. Run Server</b>
 ```
 python3 manage.py runserver
 ```
+
 --- 
 <h2>To do</h2>
 <ul>
