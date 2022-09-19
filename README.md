@@ -1,6 +1,8 @@
 # classical music quiz discord bot
 ![pic](https://static01.nyt.com/images/2011/01/05/arts/Composer-cover/Composer-cover-articleLarge.jpg?quality=75&auto=webp&disable=upscale)
 
+<p>A discord bot made to quiz you on classical music facts</p>
+
 Install Packages
 ```
 pip install discord.py
